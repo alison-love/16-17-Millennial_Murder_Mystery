@@ -1,0 +1,271 @@
+Table 2602. Generation of reference person: Annual expenditure means, shares, standard errors, and coefficients of variation,
+
+Consumer Expenditure Surveys, 2021 — Continued
+
+Item
+
+Other taxes
+
+Income after taxes
+
+Addenda:
+
+Net change in total assets and liabilities
+
+CV (%) cecsesecscsesesevseseeersesssueervsssteeseeessteesseee
+
+Other financial information:
+Other money receipts
+
+CV (%) cececsecssseserevsesverevseseesreessseeeseessteeseeee
+
+CV (%) ceveesecscseserevscseserevsesueersesesesesteessteenseee
+
+' Data are rounded to the nearest thousands.
+2 Value is too small to display.
+3 No data reported.
+
+Source: Consumer Expenditure Surveys, U.S. Bureau of Labor Statistics, September, 2022
+
+All
+consumer
+units
+
+65.45
+62.21
+
+78,743
+90.1
+956.65
+1.21
+
+$16,089
+3,165.60
+19.68
+
+39,962
+2,729.57
+6.83
+
+23,873
+1,479.93
+6.20
+
+1,004
+241.12
+24.03
+
+-2,621
+68.59
+-2.62
+
+253,645
+5,791.95
+2.28
+
+1,265
+15.46
+1.22
+
+Birth year
+
+of 1997
+or later
+
+2.2
+1,466.55
+148.07
+
+42,335
+95.6
+1,752.34
+4.14
+
+$2,872
+3,099.15
+107.92
+
+7,779
+2,999.75
+33.42
+
+4,907
+1,565.42
+31.90
+
+495
+249.01
+50.25
+
+-439
+78.40
+-17.85
+
+57,612
+10,766.96
+18.69
+
+296
+34.43
+11.64
+
+Birth year
+from 1981
+to 1996
+
+13.49
+23.35
+
+84,563
+21.8
+1,388.06
+1.64
+
+-$3,728
+3,946.69
+-105.86
+
+32,908
+4,232.38
+12.86
+
+36,636
+4,293.01
+11.72
+
+615
+183.42
+29.83
+
+-2,321
+58.96
+-2.54
+
+173,209
+5,304.00
+3.06
+
+929
+20.77
+2.24
+
+Birth year
+from 1965
+to 1980
+
+15.19
+21.53
+
+102,512
+
+2,132.82
+2.08
+
+$11,933
+5,777.49
+48.42
+
+46,398
+4,994.49
+10.76
+
+34,465
+3,913.53
+11.36
+
+1,108
+710.86
+64.17
+
+-3,809
+155.06
+-4.07
+
+300,927
+9,365.81
+3.11
+
+1,448
+30.54
+2.11
+
+Birth year
+from 1946
+to 1964
+
+15.61
+21.77
+
+71,183
+
+1,385.77
+1.95
+
+$36,821
+7,468.39
+20.28
+
+51,884
+7,535.46
+14.52
+
+15,063
+2,358.80
+15.66
+
+1,473
+400.49
+27.18
+
+-2,686
+149.73
+-5.58
+
+301,937
+7,855.51
+2.60
+
+1,490
+23.56
+1.58
+
+Birth year
+of 1945
+or earlier
+
+A
+8.74
+29.68
+
+41,969
+cg
+1,252.15
+POO
+
+$17,371
+5,735.40
+33.02
+
+17,254
+5,715.36
+33.13
+
+-117
+581.24
+-495.84
+
+447
+171.71
+38.41
+
+-1,047
+122.63
+-11.71
+
+270,415
+12,231.85
+4.52
+
+1,370
+36.37
+2.65

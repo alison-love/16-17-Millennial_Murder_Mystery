@@ -1,0 +1,69 @@
+Table 2602. Generation of reference person: Annual expenditure means, shares, standard errors, and relative standard errors,
+Consumer Expenditure Surveys, 2022 — Continued
+
+All Birth year Birth year Birth year Birth year Birth year
+Item consumer of 1997 from 1981 from 1965 from 1946 of 1945
+units or later to 1996 to 1980 to 1964 or earlier
+
+Other taxes
+
+SN AVEC 0... ec eeeccececceeeeseneeeeeeeeeeeneeeeeeeeeeeeeeeessceneeeeeeessenseeees 1 (7) 1 1 1 2
+SE... cescssccssesseeseseesesssenseseseessenteeseesesseeseerecseenseseesessenneeees 12.06 (7) 12.40 25.73 15.97 17.28
+NS) eee 14.42 (7) 16.98 24.07 18.43 24.10
+Income after taxes
+MEAN. .......::ccccceeeeeeneeeeeeeseeeeeeeeeeeecaeeeeesesseneeeeeeseseeeeeeeeeees 83,195 49,618 89,641 108,615 73,086 45,519
+SN AVEC 0... ec eeeccececceeeeseneeeeeeeeeeeneeeeeeeeeeeeeeeessceneeeeeeessenseeees 88.5 95.0 89.4 85.6 89.3 97.2
+SE... cescssccssesseeseseesesssenseseseessenteeseesesseeseerecseenseseesessenneeees 960.32 2,156.02 1,837.57 1,929.99 1,389.97 1,677.21
+NS) eee 1.15 4.35 2.05 1.78 1.90 3.68
+Addenda:
+Net change in total assets and liabilities
+MOAN... cecescesceseessescescessessessessessessersessessesesesesseeseeseesees (7) (7) (7) (7) (7) (7)
+S) ee (7) (7) (7) (7) (7) (7)
+RSE i ececeececeeseseseeseeceeseseeeeneececseseeneseesecsesesneteeseneeeneneeeees (7) (7) (7) (7) (7) (7)
+Net change in total assets
+MEAN. .......::ccccceeeeeeneeeeeeeseeeeeeeeeeeecaeeeeesesseneeeeeeseseeeeeeeeeees 13,078 (7) 33,195 (7) (7) (7)
+S) ee 2,895.88 (7) 4,500.44 (7) (7) (7)
+RSE. 0... eceeceececceeeeceneeeeeeeceeneeeeeeeseceaeeeeeeesseeeeeeeseseeseeeesees 22.14 (7) 13.56 (7) (7) (7)
+Net change in total liabilities
+MEAN. .......::ccccceeeeeeneeeeeeeseeeeeeeeeeeecaeeeeesesseneeeeeeseseeeeeeeeeees 14,525 (7) 26,536 18,945 (7) (7)
+S) ee 1,477.14 (7) 2,905.37 3,468.63 (7) (7)
+NS) eee 10.17 (7) 10.95 18.31 (7) (7)
+
+Other financial information:
+Other money receipts
+
+MOAN .....cccccccccccccccceeeeseeeeeeenseeeeeeeeeeeeeeceeecseeesetteseeeeeeeeess (7) (7) (7) (7) 1,268 (7)
+
+S) ee (7) (7) (7) (7) 296.17 (7)
+
+eS) (7) (7) (7) (7) 23.36 (7)
+Mortgage principal paid on owned property
+
+MOAN .....cccccccccccccccceeeeseeeeeeenseeeeeeeeeeeeeeceeecseeesetteseeeeeeeeess -2,843 -593 -2,599 -4,306 -2,608 -1,384
+
+S) ee 75.11 96.55 74.80 199.67 120.31 334.92
+
+eS) -2.64 -16.28 -2.88 -4.64 -4.61 -24.19
+Estimated market value of owned home
+
+MEAN... ..cccccccccccccceeceeseeseeseseeseeeeeeeeeeeeeeseeseeseesseseeeeeeeeeess 279,189 66,706 211,106 330,507 315,917 318,763
+
+S) ee 6,184.13] 12,656.23 7,179.89 8,239.85 9,614.76 16,067.74
+
+eS) 2.22 18.97 3.69 2.49 3.04 5.04
+Estimated monthly rental value of owned home
+
+MEAN... ..cccccccccccccceeceeseeseeseseeseeeeeeeeeeeeeeseeseeseesseseeeeeeeeeess 1,401 355 1,098 1,644 1,585 1,526
+
+S) ee 16.87 48.82 28.08 29.18 29.65 47.52
+
+eS) 1.20 13.75 2.56 1.78 1.87 3.11
+
+' Data are rounded to the nearest thousands.
+
+2 Data are suppressed due to the Relative Standard Error (RSE) being equal to or greater than 25 percent. See www.bls.gov/cex/tables-getting-started-guide.htm for more information.
+3 Value is too small to display.
+
+4 No data reported.
+
+Source: Consumer Expenditure Surveys, U.S. Bureau of Labor Statistics, September, 2023

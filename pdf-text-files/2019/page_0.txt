@@ -1,0 +1,337 @@
+Table 2602. Generation of reference person:
+
+Consumer Expenditure Survey, 2019
+
+Item
+
+Number of consumer units (in thousands) ..............
+
+Consumer unit characteristics:
+
+Income before taxes
+
+Income after taxes
+
+Percent distribution:
+
+Reference person:
+
+MON Looe ececececcecceeececececeeeeceeecucecuecauecueesueeaeeeneneesaneeaes
+
+Housing tenure:
+
+HOMEOWNEL 000... e eee eeeeeee eee e cence eee eeeeneeeeeeeteenneeeeeeeeaas
+With MOrMQaQe ....... eee eeeeeeeeeeeeeeeeeeeeeeneeeeeteeeneeeeeeee
+Without MOrMtQage ......... eect ee eeeeteeeeeteeeneeeeeeee
+
+Race of reference person:
+
+Black or African-AMe@riCan.........0..ccccceceeeeeeeeeeeeeeeeees
+White, Asian, and all other races .......... eee
+
+Hispanic or Latino origin of reference person:
+
+Hispanic Of LatinO...... eee eeeeeeeeeeeeeeeeeeeeeeeneeeeeeeeeeaas
+Not Hispanic or Latino «0.2... eeeneeeeeeeeeneeeeeeeeeee
+
+Education of reference person:
+
+Food
+
+Food at home
+
+CV (%) ceesesevssseserevssseerseseseeensees
+
+See footnotes at end of table.
+
+Annual expenditure means, shares, standard errors, and coefficients of variation,
+
+All
+consumer
+
+units
+
+cee eeeeeeenaeeeeeeeeeenaeeeeeeneeaaes 13
+ee eeeeeeeeeaeeeeeeeenaeeeeeeneneaes 87
+
+eee eee eteenaaeeeeeeeenaeeeeeenenaaes 14
+settee eeeeneeeeeeeeenneeeeeeneeaaes 86
+
+ace eeeeeeeeneeeeeeeeenneeeeeenenaaes 3
+eee eeeeeeenaneeeeeeeeeneeeeeeeenaaes 30
+settee eeeeneeeeeeeeenneeeeeeneeaaes 67
+
+eeeeeeeeeeeneeeeeeeteeneeeeeeeenaaes 89
+
+$63,036
+578.05
+
+he ep nN EDR RECN E ae
+
+Birth year
+of 1997
+or later
+
+3,698
+
+$27,779
+2,997.40
+9.35
+
+26,565
+2,364.52
+8.90
+
+20.2
+
+17
+83
+
+17
+83
+
+64
+60
+
+$34,092
+2,974.82
+8.73
+
+5,288
+15.5
+487.60
+9.22
+
+2,516
+7.4
+283.77
+11.28
+
+313
+&
+46.86
+14.96
+
+130
+
+Birth year
+from 1981
+to 1996
+
+33,033
+
+$79,514
+1,771.38
+2.23
+
+70,565
+1,449.17
+2.05
+
+30.7
+
+52
+48
+
+43
+35
+
+57
+
+16
+84
+
+18
+82
+
+73
+90
+
+$59,866
+928.71
+1.55
+
+7,740
+12.9
+189.36
+2.45
+
+4,114
+6.9
+131.02
+3.18
+
+499
+8
+16.52
+3.31
+
+174
+
+Birth year
+from 1965
+to 1980
+
+35,498
+
+$106,173
+1,737.66
+1.64
+
+90,964
+1,339.89
+1.47
+
+46.2
+
+48
+52
+
+66
+52
+14
+34
+
+14
+86
+
+17
+83
+
+70
+92
+
+$76,788
+1,162.92
+1.51
+
+10,073
+13.1
+259.86
+2.58
+
+5,616
+7.3
+162.55
+2.89
+
+719
+&
+23.78
+3.31
+
+234
+
+Birth year
+from 1946
+to 1964
+
+43,148
+
+$86,251
+4,904.74
+5.69
+
+72,201
+3,109.51
+4.31
+
+“uu oDpu4
+
+hp —
+
+49
+51
+
+76
+38
+38
+24
+
+12
+88
+
+10
+90
+
+3
+30
+67
+
+91
+
+$63,956
+984.80
+1.54
+
+8,180
+12.8
+202.73
+2.48
+
+4,862
+7.6
+147.17
+3.03
+
+606
+a
+22.31
+3.68
+
+178
+
+Birth year
+of 1945
+or earlier
+
+16,865
+
+$43,680
+2,188.26
+5.01
+
+40,323
+1,620.96
+4.02
+
+80.8
+1.6
+
+(")
+1.
+
+O10) A
+
+1
+
+41
+59
+
+81
+17
+64
+19
+
+84
+
+$44,412
+1,196.13
+2.69
+
+5,625
+12.7
+185.50
+3.30
+
+3,91
+8.1
+120.62
+3.36
+
+471
+1.1
+19.59
+4.16
+
+120
