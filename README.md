@@ -1,4 +1,4 @@
-# Millenial Murder Mystery
+# Millennial Murder Mystery
 
 ## Project Overview
 
