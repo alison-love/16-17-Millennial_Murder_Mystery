@@ -22,7 +22,7 @@ The dataset used in this application contains consumer statistics collected over
 - **Chart Visualization**: The application displays the data in various chart forms such as line, bar, scatter, and pie charts.
 - **Responsive Design**: The platform is designed to be responsive and user-friendly across different devices and screen sizes.
 
-## Installation
+## Getting Started
 
 To get started with the Consumer Data Visualization app:
 
@@ -37,7 +37,31 @@ To get started with the Consumer Data Visualization app:
 
 Navigate to the hosted application URL and use the dropdown menus to filter data based on your interests. Select a chart type to visualize the data. The charts are interactive, allowing for a deeper dive into the data points.
 
-## Contribution
+## Folder Structure
+
+The project structure is organized as follows:
+
+consumer-data-visualization/
+├── app.py
+├── Data-Cleaning_SQL-Upload.ipynb
+├── excel files/
+├── static/
+├── README.md
+└── ...
+
+## Dependencies
+
+The application relies on the following dependencies:
+
+- Flask
+- SQLAlchemy
+- pandas
+- plotly
+- flask_cors
+
+These dependencies can be installed using `pip` as mentioned in the installation instructions.
+
+## Contributing
 
 Contributions to enhance the application are welcome. Please fork the repository, create a feature branch, and submit a pull request for review.
 
