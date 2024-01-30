@@ -41,13 +41,13 @@ Navigate to the hosted application URL and use the dropdown menus to filter data
 
 The project structure is organized as follows:
 
-consumer-data-visualization/
-├── app.py
-├── Data-Cleaning_SQL-Upload.ipynb
-├── excel files/
-├── static/
-├── README.md
-└── ...
+consumer-data-visualization/ <br>
+|-- app.py <br>
+|-- Data-Cleaning_SQL-Upload.ipynb <br>
+|-- excel files/ <br>
+|-- static/ <br>
+|-- README.md <br>
+|-- ... <br>
 
 ## Dependencies
 
