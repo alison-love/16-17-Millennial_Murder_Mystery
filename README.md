@@ -41,7 +41,7 @@ Navigate to the hosted application URL and use the dropdown menus to filter data
 
 The project structure is organized as follows:
 
-consumer-data-visualization/ <br>
+Millennial_Murder_Mystery/ <br>
 |-- app.py <br>
 |-- Data-Cleaning_SQL-Upload.ipynb <br>
 |-- excel files/ <br>
