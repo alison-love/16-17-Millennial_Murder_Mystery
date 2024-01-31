@@ -61,6 +61,9 @@ The application relies on the following dependencies:
 
 These dependencies can be installed using `pip` as mentioned in the installation instructions.
 
+## Data Sourcing and Ethics
+The consumer data used in this project was sourced responsibly from the Bureau of Labor Statistics, ensuring the data's integrity and the privacy of individuals. We are dedicated to ethical data practices by only using aggregated and anonymized datasets, thus mitigating any risk of personal data exposure. Our analysis does not discriminate against any individual or group, and we strive to present the information in a manner that is both informative and respectful.
+
 ## Contributing
 
 Contributions to enhance the application are welcome. Please fork the repository, create a feature branch, and submit a pull request for review.
