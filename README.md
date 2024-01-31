@@ -1,4 +1,4 @@
-# Consumer Data Visualization
+# Millennial Murder Mystery
 
 ## Project Overview
 
@@ -41,13 +41,13 @@ Navigate to the hosted application URL and use the dropdown menus to filter data
 
 The project structure is organized as follows:
 
-consumer-data-visualization/
-├── app.py
-├── Data-Cleaning_SQL-Upload.ipynb
-├── excel files/
-├── static/
-├── README.md
-└── ...
+Millennial_Murder_Mystery/ <br>
+|-- app.py <br>
+|-- Data-Cleaning_SQL-Upload.ipynb <br>
+|-- excel files/ <br>
+|-- static/ <br>
+|-- README.md <br>
+|-- ... <br>
 
 ## Dependencies
 
@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 For any further queries or suggestions, please contact the repository owner.
 
-Project Link: [https://github.com/your-username/consumer-data-visualization](https://github.com/your-username/consumer-data-visualization)
+Project Link: https://github.com/alison-love/Millennial_Murder_Mystery.git
