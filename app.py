@@ -252,25 +252,23 @@ HTML_TEMPLATE = """
 
     <script>
     $(document).ready(function() {
-        function populateDropdown(column, additionalParams = {}) {
-            let url = '/get-dropdown-options?column=' + column;
-            for (const key in additionalParams) {
-                url += '&' + key + '=' + encodeURIComponent(additionalParams[key]);
-            }
+        // Populate main_category dropdown initially
+        populateDropdown('main_category');
 
-            $.get(url, function(data) {
-                let select = $('#' + column + '-dropdown');
-                select.empty();
-                data.forEach(function(option) {
-                    select.append($('<option>', {value: option, text: option}));
-                });
-            });
-        }
+        // Event listener for main_category dropdown change
+        $('#main_category-dropdown').change(function() {
+            let selectedMainCategory = $(this).val();
+            populateDropdown('subcategory', { main_category: selectedMainCategory });
+            $('#item-dropdown').empty();
+        });
 
-        populateDropdown('main_category', { year: $('input[name="year"]:checked').map(function() { return this.value; }).get() });
-        populateDropdown('subcategory', { main_category: $('#main_category-dropdown').val() });
-        populateDropdown('item', { subcategory: $('#subcategory-dropdown').val() });
+        // Event listener for subcategory dropdown change
+        $('#subcategory-dropdown').change(function() {
+            let selectedSubcategory = $(this).val();
+            populateDropdown('item', { subcategory: selectedSubcategory });
+        });
 
+        // Load chart click event
         $('#load-chart').click(function() {
             let selectedGenerations = $('input[name="generation"]:checked').map(function() { return this.value; }).get();
             let selectedYears = $('input[name="year"]:checked').map(function() { return this.value; }).get();
@@ -298,7 +296,7 @@ HTML_TEMPLATE = """
                             tickmode: 'array',
                             tickvals: chartData.x // Assuming this is an array of years
                         }
-                        // Other layout settings
+                        // Other layout settings can be added here
                     };
                     Plotly.newPlot('chart', chartData.data, layout);
                 },
@@ -308,9 +306,25 @@ HTML_TEMPLATE = """
             });
         });
     });
+
+    function populateDropdown(column, additionalParams = {}) {
+        let url = '/get-dropdown-options?column=' + column;
+        for (const key in additionalParams) {
+            url += '&' + key + '=' + encodeURIComponent(additionalParams[key]);
+        }
+
+        $.get(url, function(data) {
+            let select = $('#' + column + '-dropdown');
+            select.empty();
+            data.forEach(function(option) {
+                select.append($('<option>', { value: option, text: option }));
+            });
+        });
+    }
     </script>
 </body>
 </html>
+
 """
 
 if __name__ == '__main__':
