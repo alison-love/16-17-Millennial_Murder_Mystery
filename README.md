@@ -6,7 +6,7 @@ The Consumer Data Visualization application is a data-driven web platform built 
 
 ## Data Description
 
-The dataset used in this application contains consumer statistics collected over recent years. Each record in the dataset consists of the following fields:
+The dataset used in this application contains consumer statistics collected by the Bureau of Labor Statistics over the years 2019-2022. Each record in the dataset consists of the following fields:
 
 - `id`: Unique identifier for the record.
 - `year`: The year the data was collected.
