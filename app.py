@@ -165,6 +165,7 @@ HTML_TEMPLATE = """
         <div class="filter-container">
             <div class="filter-title">Filters</div>
             <div class="row">
+                <!-- Generation Filters -->
                 <div class="col-md-4">
                     <label>Generation:</label>
                     <div class="form-check">
@@ -224,6 +225,7 @@ HTML_TEMPLATE = """
                 </div>
             </div>
             <div class="row">
+                <!-- Dropdowns for Categories and Subcategories -->
                 <div class="col-md-4">
                     <label>Main Category:</label>
                     <select id="main_category-dropdown" class="form-control" multiple></select>
@@ -237,6 +239,7 @@ HTML_TEMPLATE = """
                     <select id="item-dropdown" class="form-control" multiple></select>
                 </div>
             </div>
+
             <div class="text-center mt-3">
                 <button type="button" id="load-chart" class="btn btn-primary">Load Chart</button>
             </div>
@@ -291,12 +294,25 @@ HTML_TEMPLATE = """
                 }),
                 success: function(response) {
                     var chartData = JSON.parse(response.chart);
+                    var selectedSubcategory = $('#subcategory-dropdown').val(); // Get the selected subcategory value
+                    var selectedMainCategory = $('#main_category-dropdown').val(); // Get the selected main category
+                    
                     var layout = {
                         xaxis: {
                             tickmode: 'array',
-                            tickvals: chartData.x // Assuming this is an array of years
-                        }
-                        // Other layout settings can be added here
+                            tickvals: chartData.x, // Assuming this is an array of years
+                            tickformat: 'd', // Display years as integers
+                            title: "Years"
+                            },
+                        legend: {
+                            title: {
+                                text: 'Generation'  // Replace with your desired title
+                            }
+                        },
+                        yaxis: {
+                            title: selectedSubcategory.join(', ')  // Add your y-axis title here
+                    },
+                        title: selectedMainCategory.join(', ') // Set the chart title based on the selected main category(s)
                     };
                     Plotly.newPlot('chart', chartData.data, layout);
                 },
@@ -324,8 +340,7 @@ HTML_TEMPLATE = """
     </script>
 </body>
 </html>
-
 """
 
 if __name__ == '__main__':
-    app.run(debug=True, host='192.168.50.231', port=5000)
+    app.run(debug=True, host='192.168.50.231', port=5500)
