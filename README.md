@@ -63,8 +63,7 @@ These dependencies can be installed using `pip` as mentioned in the installation
 
 ## Data Sourcing and Ethics
 The consumer data used in this project was sourced responsibly from the Bureau of Labor Statistics, ensuring the data's integrity and the privacy of individuals. We are dedicated to ethical data practices by only using aggregated and anonymized datasets, thus mitigating any risk of personal data exposure. Our analysis does not discriminate against any individual or group, and we strive to present the information in a manner that is both informative and respectful.
-[
-](https://www.bls.gov/cex/tables/calendar-year/mean-item-share-average-standard-error.htm)
+https://www.bls.gov/cex/tables/calendar-year/mean-item-share-average-standard-error.htm
 
 ## Contributing
 
