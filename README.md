@@ -6,7 +6,7 @@ The Consumer Data Visualization application is a data-driven web platform built 
 
 ## Data Description
 
-The dataset used in this application contains consumer statistics collected over recent years. Each record in the dataset consists of the following fields:
+The dataset used in this application contains consumer statistics collected by the Bureau of Labor Statistics over the years 2019-2022. Each record in the dataset consists of the following fields:
 
 - `id`: Unique identifier for the record.
 - `year`: The year the data was collected.
@@ -60,6 +60,10 @@ The application relies on the following dependencies:
 - flask_cors
 
 These dependencies can be installed using `pip` as mentioned in the installation instructions.
+
+## Data Sourcing and Ethics
+The consumer data used in this project was sourced responsibly from the Bureau of Labor Statistics, ensuring the data's integrity and the privacy of individuals. We are dedicated to ethical data practices by only using aggregated and anonymized datasets, thus mitigating any risk of personal data exposure. Our analysis does not discriminate against any individual or group, and we strive to present the information in a manner that is both informative and respectful.
+https://www.bls.gov/cex/tables/calendar-year/mean-item-share-average-standard-error.htm
 
 ## Contributing
 
